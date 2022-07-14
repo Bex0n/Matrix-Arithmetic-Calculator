@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.mimuw.MatrixBinaryOperationTest" tests="74" skipped="0" failures="0" errors="0" timestamp="2022-05-17T21:50:10" hostname="mrbekson119-HP" time="0.129">
+  <properties/>
+  <testcase name="testMinusSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.041"/>
+  <testcase name="[9] 1.0 0 &#10;0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.013"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.017"/>
+  <testcase name="[9] 1.0 0 &#10;0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.017"/>
+  <testcase name="[4] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[10] 1.0 0 0 &#10;0 1.0 0 &#10;0 0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[9] 1.0 0 &#10;0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.02"/>
+  <testcase name="[4] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] 0 0 &#10;0 0 &#10;0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.027"/>
+  <testcase name="[9] 1.0 0 &#10;0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.021"/>
+  <testcase name="[10] 1.0 0 0 &#10;0 1.0 0 &#10;0 0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] 0 0 12.0 &#10;0 11.0 0 &#10;10.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="testPlusSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[10] 1.0 0 0 &#10;0 1.0 0 &#10;0 0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="testTimesSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[4] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[10] 1.0 0 0 &#10;0 1.0 0 &#10;0 0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.033"/>
+  <testcase name="[2] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.004"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] 0 0 &#10;0 0 &#10;0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[2] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[8] 15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[7] 18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] 0 0 &#10;0 0 &#10;0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.022"/>
+  <testcase name="[10] 1.0 0 0 &#10;0 1.0 0 &#10;0 0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] 0 0 &#10;0 0 &#10;0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[9] 1.0 0 &#10;0 1.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] 0 0 12.0 &#10;0 11.0 0 &#10;10.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[11] 0 0 &#10;0 0 &#10;0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] 0 0 12.0 &#10;0 11.0 0 &#10;10.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[8] 15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[6] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[7] 18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[3] 7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.013"/>
+  <testcase name="[6] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.024"/>
+  <testcase name="[1] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.017"/>
+  <testcase name="[4] 0 0 12.0 &#10;0 11.0 0 &#10;10.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.017"/>
+  <testcase name="[5] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[6] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.021"/>
+  <testcase name="[6] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[2] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[7] 18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[8] 15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] 7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.043"/>
+  <testcase name="[4] 0 0 12.0 &#10;0 11.0 0 &#10;10.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[3] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[5] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[6] 1.0 2.0 &#10;3.0 4.0 &#10;5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[7] 18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;, 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.006"/>
+  <testcase name="[8] 15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[7] 18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[5] 1.0 2.0 3.0 &#10;4.0 5.0 6.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.01"/>
+  <testcase name="[8] 15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
