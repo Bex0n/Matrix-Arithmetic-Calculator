@@ -1,6 +1,6 @@
-# Reprezentacja macierzy
+# Reprezentacja macierzy oraz kalkulator operacji arytmetycznych.
 
-## Uruchamianie projektu
+## Uruchamianie projektu.
 
 Program może zostać skompilowany do pojedynczego pliku `jar` z wykorzystaniem polecenia
 ```shell
@@ -15,7 +15,7 @@ przez środowiska programistyczne, takie jak Intellij, które umożliwiają
 uruchomienie funkcji `main` z poziomu interfejsu użytkownika oraz łatwe debugowanie
 naszego programu.
 
-## Testowanie
+## Testowanie.
 
 Testy z katalogu `src/test` mogą zostać uruchomione poleceniem
 ```shell
